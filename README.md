@@ -1,4 +1,9 @@
-# vue-2-test
+# STOSRM_VUE
+
+## Project start
+```
+для старта проекта нужно создать .env и заполнить его данными по примеру с .env.example
+```
 
 ## Project setup
 ```
